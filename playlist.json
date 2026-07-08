@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Sample Movie 1 (MP4)",
+    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "isM3u8": "false"
+  },
+  {
+    "title": "Sample Stream 2 (M3U8)",
+    "url": "https://bitdash-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8",
+    "isM3u8": "true"
+  }
+]
